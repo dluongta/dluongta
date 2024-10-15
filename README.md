@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web,android, ai, iot
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me via social media
-- 😄 Pronouns: @dluongta
+- 😄 Pronouns: dluongta
 - ⚡ Fun fact: i also like walking 
 
 <!---
