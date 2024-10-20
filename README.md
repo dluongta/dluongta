@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dluongta&show_icons=true&locale=en&theme=dark&background=000000"
+    src="https://github-readme-stats.vercel.app/api?username=dluongta&show_icons=true&locale=en&theme=dark"
     alt="dluongta"
   />
 </p>
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dluongta&theme=dark&background=000000"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dluongta&theme=dark"
     alt="dluongta"
   />
 </p>
