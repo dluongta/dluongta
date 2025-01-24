@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dluongta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web,android, ai, iot
+- 🌱 I’m currently learning web,android, ai, hardware
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me via social media
 - 😄 Pronouns: dluongta
