@@ -11,9 +11,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dluongta&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-</p>
 
 <p align="left">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=dluongta&theme=react"> 
@@ -25,9 +22,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dluongta&theme=react" alt="GitHub Activity Graph" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluongta&layout=compact&theme=react" alt="Top Languages" />
-</p>
 
 ---
 
