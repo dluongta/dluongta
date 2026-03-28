@@ -1,6 +1,5 @@
 ### 👋 Hi there, I’m @dluongta
-- I’m interested in **coding** and want to **work on my own project**
-- I’m currently learning **Web**, **Android**, **AI** and **Hardware**
+I’m interested in **coding** and want to **work on my own project**. I’m currently learning **Web**, **Android**, **AI** and **Hardware**.
   
 ### 📊 GitHub Stats
 
