@@ -1,7 +1,7 @@
-### 👋 Hi there, I’m @dluongta
+## 👋 I’m Dinh Luong Ta (@dluongta)
 I’m interested in **coding** and want to **work on my own project**. I’m currently learning **Web**, **Android**, **AI** and **Hardware**.
   
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 
 <p align="left">
@@ -15,9 +15,7 @@ I’m interested in **coding** and want to **work on my own project**. I’m cur
 </p>
 
 
----
-
-### 🔗 Connect with me
+## 🔗 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dluongta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinh-luong-ta-940ba2286)
