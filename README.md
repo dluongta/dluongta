@@ -1,14 +1,7 @@
 ### 👋 Hi there, I’m @dluongta
-
-- 👀 I’m interested in **coding**  
-- 🌱 I’m currently learning **Web**, **Android**, **AI** and **Hardware**  
-- 💞️ I’m looking to collaborate on **new projects**  
-- 📫 How to reach me: **via social media**  
-- 😄 Pronouns: **dluongta**  
-- ⚡ Fun fact: I also like **playing sports**  
-
----
-
+- I’m interested in **coding** and want to **work on my own project**
+- I’m currently learning **Web**, **Android**, **AI** and **Hardware**
+  
 ### 📊 GitHub Stats
 
 
