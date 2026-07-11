@@ -1,5 +1,5 @@
-## I’m Dinh Luong Ta (@dluongta)
-I’m interested in **working on my own project**. I’m currently learning **Web**, **Android**, **AI** and **Hardware**.
+## I am Dinh Luong Ta (@dluongta)
+I am interested in **working on my own project**. I am a programmer skilled in **Software Development**, including **Web**, **Android** and **Application Development**.
   
 ## GitHub Stats
 
