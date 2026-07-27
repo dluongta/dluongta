@@ -1,12 +1,15 @@
 ## My Portfolio Website
+
 <h3>React App Resume Page 🔥</h3>
 
 **https://react-app-resume-page.vercel.app/**
 
 ## Interests And Skills
+
 I am interested in **working on my own project**. I am a programmer skilled in **Software Development**, including **Web**, **Android** and **Application Development**.
   
 ## GitHub Stats
+
 <p align="left">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=dluongta&theme=react"> 
    <img src="https://github.com/dluongta/python-code/raw/refs/heads/main/streak.svg" alt="Github Streak"/>
