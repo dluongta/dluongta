@@ -2,8 +2,8 @@
 
 <p align="center">
   <h3>React App Resume Page 🔥</h3>
-  <a href="https://react-app-resume-page.vercel.app/">
-    <strong>https://react-app-resume-page.vercel.app/</strong>
+  <a href="https://react-app-resume-page.vercel.app">
+    <strong>https://react-app-resume-page.vercel.app</strong>
   </a>
 </p>
 
