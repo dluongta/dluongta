@@ -1,9 +1,9 @@
 ## My Portfolio Website
 
-<p align="center">
+<p align="left">
   <h3>React App Resume Page 🔥</h3>
   <a href="https://react-app-resume-page.vercel.app">
-    <kbd>https://react-app-resume-page.vercel.app</kbd>
+    <strong>https://react-app-resume-page.vercel.app</strong>
   </a>
 </p>
 
