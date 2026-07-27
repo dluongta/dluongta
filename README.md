@@ -7,8 +7,6 @@
   </a>
 </p>
 
----
-
 ## Interests And Skills
 
 I am interested in **working on my own projects**. I am a programmer skilled in **Software Development**, including **Web**, **Android** and **Application Development**.
